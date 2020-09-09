@@ -63,11 +63,9 @@
                                 <rule>
                                     <limits>
                                         <limit>
-                                            <counter>LINE</counter>
-                                            <!--                                            <counter>INSTRUCTION</counter>-->
-                                            <!--                                            <counter>BRANCH</counter>-->
+                                            <counter>INSTRUCTION</counter>
+                                            <counter>BRANCH</counter>
                                             <value>COVEREDRATIO</value>
-<!--                                            <minimum>1.00</minimum>-->
                                         </limit>
                                     </limits>
                                 </rule>
